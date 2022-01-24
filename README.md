@@ -4,7 +4,7 @@
 ## downloading : 
    * to install git : `sudo apt install git` 
    * configure git  : 
-        >From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token => Fillup the form => click Generate token => Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta 
+        >From your GitHub account, go to Settings -> Developer Settings -> Personal Access Token -> Generate New Token -> Fill up the form (tick repo and admin::org )-> click Generate token -> Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta 
         1. `git config credential.https://github.com.username "<your username>"`
         2. `git config credential.https://beaterblank@github.com.password "<your token>"`
    * clone the repository :`git clone https://github.com/beaterblank/OS.git`
