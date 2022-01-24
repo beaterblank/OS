@@ -17,7 +17,7 @@
 ## Pull and push from  git :
    * **Pull changes from server** : `git pull origin main`
    * **Send chages to server**:
-        > to push changes you need permission for this repository (message me) or u could fork the repository clone form there and use it
+        > to push changes you need collabration invitation for this repository (message me) or u could fork the repository clone it and use it
         1. `git add .`
         2. `git commit -m "your commit message"`
         3. `git push origin main`
