@@ -21,5 +21,6 @@
         1. `git add .`
         2. `git commit -m "your commit message"`
         3. `git push origin main`
-            * might ask the password again just copy paste the token from where u saved  
+            * might ask the password again just copy paste the token from where u saved 
+            (if u didnt save but did the config credential step u can look for token in .git/config)
 
