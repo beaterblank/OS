@@ -18,3 +18,6 @@
         1. `git add .`
         2. `git commit -m "your commit message"`
         3. `git push origin main`
+            * on push it might ask your github username and password 
+            * for username enter ur username
+            * for password From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token (fill all nessary details) => Fillup the form => click Generate token => Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta  copy and use it as password
