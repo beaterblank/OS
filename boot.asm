@@ -4,7 +4,6 @@
 
 mov bx,buffer  ;get str pointer into bx
 call scan      ;scan and st
-
 mov bx,buffer  ;get str pointer into bx
 call print		;print
 
