@@ -1,15 +1,15 @@
 # OS :
     open terminal cd to any directory you wish then run these commands 
 ## downloading : 
-   * **sudo apt install git**
-   >> to install git
-   * **git clone https://github.com/beaterblank/OS.git** 
-   >> clone the repository
-   * **cd OS** 
-   >> into the project directory
+   * to install git
+   > **sudo apt install git** 
+   * clone the repository
+   > **git clone https://github.com/beaterblank/OS.git**
+   * into the project directory
+   > **cd OS** 
 ## installation : 
-   * **bash init.sh** 
-   >> to install required pakages
+   * to install required pakages
+   > **bash init.sh** 
 ## compile and run : 
-   * **bash run.sh** 
-   >> to compile and run
+   * to compile and run
+   > **bash run.sh** 
