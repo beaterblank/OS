@@ -4,8 +4,8 @@
 ## downloading : 
    * to install git : `sudo apt install git` 
    * configure git  : 
-   1. `git config --global user.name "your_username"`
-   2. `git config --global user.email "your_email_address@example.com"`
+        1. `git config --global user.name "your_username"`
+        2. `git config --global user.email "your_email_address@example.com"`
    * clone the repository :`git clone https://github.com/beaterblank/OS.git`
    * into the project directory : `cd OS`
 ## installation : 
@@ -15,6 +15,6 @@
 ## pull and push from  git :
    * pull changes from server : `git pull origin main`
    * send chages to server:
-   1. `git add .`
-   2. `git commit -m "your commit message"`
-   3. `git push origin main`
+        1. `git add .`
+        2. `git commit -m "your commit message"`
+        3. `git push origin main`
