@@ -1,4 +1,5 @@
 ;code part :
+[BITS 16]       ;tell the assembler its 16 bit code
 
 mov [BOOT_DISK],dl
 
